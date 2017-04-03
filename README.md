@@ -89,3 +89,7 @@ discrollve:discrollve_fromBgColor="#00b8d4"
 discrollve:discrollve_toBgColor="#c51162"
 ```
 
+## See DiscrollView 2 in action:
+
+![alt tag](https://giant.gfycat.com/FeminineWarlikeEquestrian.gif)
+
