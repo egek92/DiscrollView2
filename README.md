@@ -22,7 +22,7 @@ API Level 15+
  ### build.gradle(Module:app)
   
   	dependencies {
-	        compile 'com.github.egek92:discrollview2:v1.0'
+	        implementation 'com.github.egek92:discrollview2:v1.0'
 	}
 
 
